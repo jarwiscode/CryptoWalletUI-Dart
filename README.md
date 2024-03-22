@@ -1,16 +1,4 @@
-# flutter_application_1
+**My first UI on Dart, I will post new ones daily**
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots:
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-22 at 09 37 32](https://github.com/jarwiscode/CryptoWalletUI-Dart/assets/142261233/c21d4255-4ac2-40c9-b114-71006e488fea)
